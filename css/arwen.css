@@ -232,7 +232,7 @@ div.google-visualization-tooltip > ul > li > span
     position: absolute;
     overflow-y: auto;
     top: 180px;
-    width: 300px;
+    width: 256px;
 }
 
 .arwen_chart_set
