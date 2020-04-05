@@ -1,4 +1,3 @@
-
 google.charts.load('current', {
     'packages':['geochart'],
     // Note: you will need to get a mapsApiKey for your project.
@@ -138,4 +137,3 @@ fetch("https://corona.lmao.ninja/countries")
 
         google.charts.setOnLoadCallback(drawRegionsMap);
     })
-
