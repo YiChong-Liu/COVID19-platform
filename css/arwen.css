@@ -232,7 +232,7 @@ div.google-visualization-tooltip > ul > li > span
     position: absolute;
     overflow-y: auto;
     top: 180px;
-    width: 256px;
+    width: 300px;
 }
 
 .arwen_chart_set
@@ -396,7 +396,7 @@ div.google-visualization-tooltip > ul > li > span
 .arwen_color_yellow { color: yellow; }
 .arwen_font_size_10 { font-size: 10px; }
 .arwen_font_size_11 { font-size: 11px; }
-.arwen_font_size_30 { font-size: 30px; }
+.arwen_font_size_30 { font-size: 18px; }
 .arwen_font_size_50 { font-size: 50px; }
 .arwen_font_size_64 { font-size: 64px; }
 
