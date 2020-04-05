@@ -394,9 +394,9 @@ div.google-visualization-tooltip > ul > li > span
 .arwen_color_orange { color: orange; }
 .arwen_color_red { color: #ff7979; }
 .arwen_color_yellow { color: yellow; }
-.arwen_font_size_10 { font-size: 8px; }
-.arwen_font_size_11 { font-size: 8px; }
-.arwen_font_size_30 { font-size: 12px; }
+.arwen_font_size_10 { font-size: 10px; }
+.arwen_font_size_11 { font-size: 11px; }
+.arwen_font_size_30 { font-size: 30px; }
 .arwen_font_size_50 { font-size: 50px; }
 .arwen_font_size_64 { font-size: 64px; }
 
